@@ -2,6 +2,8 @@
 
 This is the code implementation for the paper *Improving Interpretation Faithfulness for Vision Transformers* published at ICML 2024 Spotlight. 
 
+<b style="color: #C00000">This is the original version of the code, the latest version is currently being organized.</b>
+
 ## Environment Setup
 Please set up the environment following `env.yaml` by using conda. After that, please clone https://github.com/openai/guided-diffusion and put it in the same directory as this repo. Note that we leverage the pre trained diffusion model of `256x256 diffusion (not class conditional): 256x256_diffusion_uncond.pt`. 
 
